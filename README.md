@@ -36,7 +36,7 @@ Feel free to connect with me or explore my projects. You can reach out via email
 
 ## Projects
 
-- **Project 1:** [AdavnTrack-600]([link-to-project](https://keonn.com/systems-product/advantrack-600/#))
+- **Project 1:** [AdavnTrack-600](https://keonn.com/systems-product/advantrack-600/#)
   - Description: In this project, I was conducting RFID technology tests, analyzing resulting data, and developing predictive algorithms. My role involved thorough RFID testing using external modules to assess their performance and accuracy. Additionally, I took charge of analyzing the data collected during the tests, extracting key insights to enhance system efficiency and reliability. The highlight of my contribution was the development of predictive algorithms based on patterns identified in RFID data. These algorithms enabled us to anticipate behaviors and optimize system performance. My involvement in this project not only strengthened my skills in RFID technology but also provided valuable experience in data analysis and predictive algorithm implementation.
 
   - **Technologies and Tools Used:**
