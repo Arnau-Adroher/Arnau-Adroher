@@ -1,4 +1,4 @@
-# Arnau Adroher's GitHub Portfolio
+# Arnau Adroher's Portfolio
 
 ## Overview
 
