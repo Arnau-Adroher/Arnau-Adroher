@@ -7,7 +7,7 @@ Hello, I'm Arnau Adroher, a final-year student pursuing a degree in Telecommunic
 ## About Me
 
 - **Name:** Arnau Adroher
-- **Degree:** Telecommunications Network Engineering (Final Year)
+- **Degree:** Telecommunications Network Engineering 
 - **Current Position:** Keonn (RFID Technology)
 
 ## Skills
